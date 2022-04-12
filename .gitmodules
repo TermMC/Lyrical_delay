@@ -1,0 +1,3 @@
+[submodule "sample-poemns"]
+	path = sample-poemns
+	url = https://github.com/TermMC/fresh-newt-bath.git
